@@ -5,7 +5,9 @@ https://www.kaggle.com/nidaguler/parkinsons-data-set
 FILE LINK
 https://colab.research.google.com/drive/13yrI4pIakpojt0xpu75A-HtRwKLrZ6BU?usp=sharing
 
-Data Set Characteristics: Multivariate
+Data Set Characteristics: 
+
+Multivariate
 Number of Instances: 197
 Area: Life
 Attribute Characteristics: Real
